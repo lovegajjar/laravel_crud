@@ -10,6 +10,7 @@
 ## cred_web_app installation
 
 - make db with name : crud-web-app
+- make .evn file by make copy of .ene.example file
 - php artisan migrate
 - php artisan db:seed
 - php artisan storage:link
