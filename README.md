@@ -9,9 +9,8 @@
 
 ## cred_web_app installation
 
- -> make db with name : crud-web-app
- -> php artisan migrate
- -> php artisan db:seed
- -> php artisan storage:link
- -> Php artisan serve
-
+- make db with name : crud-web-app
+- php artisan migrate
+- php artisan db:seed
+- php artisan storage:link
+- Php artisan serve
